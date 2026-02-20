@@ -1,0 +1,13 @@
+✅ What is Dynamic Programming?
+
+Dynamic Programming is a technique to solve problems by breaking them into smaller subproblems, 
+solving each subproblem only once, and storing their solutions to avoid redundant work.
+
+In simpler words:
+
+Solve small parts first
+Remember the results (usually in an array, hashmap, or variable)
+Use these results to build the solution for bigger parts
+
+Dynamic Programming is an optimization technique where we solve a problem by breaking it into smaller overlapping
+subproblems, storing their results, and building the final solution from these stored results
